@@ -17,7 +17,7 @@ TODO: Write history
 ## Credits
 TODO: Write credits
 ## License
-TODO: Write license
+TODO: free license
 ]]></content>
   <tabTrigger>readme</tabTrigger>
 </snippet>
